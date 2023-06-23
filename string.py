@@ -1,0 +1,6 @@
+name = ("Shashi")
+print(name.upper())
+print(name)
+print(name.find('i'))
+print(name.replace("Shashi","Superman"))
+print(name)
